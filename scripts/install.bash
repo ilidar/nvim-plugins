@@ -26,7 +26,19 @@ link_config_dir()
     ln -s -f "$DIR_PATH" "$DIR_LINK_PATH"
 }
 
-mkdir -p $HOME/.local/share/nvim/site/pack/plugins
+plugins_init()
+{
+    mkdir -p $HOME/.local/share/nvim/site/pack/plugins
 
-link_config_dir opt
-link_config_dir start
+    link_config_dir opt
+    link_config_dir start
+}
+
+plugins_setup()
+{
+    nvim --headless -c 'TSInstallSync all' -c 'qall'
+}
+
+plugins_init
+plugins_setup
+
