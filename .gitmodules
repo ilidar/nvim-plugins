@@ -1,0 +1,99 @@
+[submodule "start/nvim-lspconfig"]
+	path = start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "start/nvim-treesitter"]
+	path = start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter
+[submodule "start/nvim-web-devicons"]
+	path = start/nvim-web-devicons
+	url = https://github.com/kyazdani42/nvim-web-devicons
+[submodule "start/nvim-tree.lua"]
+	path = start/nvim-tree.lua
+	url = https://github.com/kyazdani42/nvim-tree.lua
+[submodule "start/nvim-lightbulb"]
+	path = start/nvim-lightbulb
+	url = https://github.com/kosayoda/nvim-lightbulb
+[submodule "start/cmp-nvim-lsp"]
+	path = start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp
+[submodule "start/cmp-buffer"]
+	path = start/cmp-buffer
+	url = https://github.com/hrsh7th/cmp-buffer
+[submodule "start/cmp-path"]
+	path = start/cmp-path
+	url = https://github.com/hrsh7th/cmp-path
+[submodule "start/cmp-cmdline"]
+	path = start/cmp-cmdline
+	url = https://github.com/hrsh7th/cmp-cmdline
+[submodule "start/nvim-cmp"]
+	path = start/nvim-cmp
+	url = https://github.com/hrsh7th/nvim-cmp
+[submodule "start/cmp-vsnip"]
+	path = start/cmp-vsnip
+	url = https://github.com/hrsh7th/cmp-vsnip
+[submodule "start/vim-vsnip"]
+	path = start/vim-vsnip
+	url = https://github.com/hrsh7th/vim-vsnip
+[submodule "start/nvim-autopairs"]
+	path = start/nvim-autopairs
+	url = https://github.com/windwp/nvim-autopairs
+[submodule "start/plenary.nvim"]
+	path = start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim
+[submodule "start/telescope.nvim"]
+	path = start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim
+[submodule "start/lush.nvim"]
+	path = start/lush.nvim
+	url = https://github.com/rktjmp/lush.nvim
+[submodule "start/gruvbox.nvim"]
+	path = start/gruvbox.nvim
+	url = https://github.com/npxbr/gruvbox.nvim
+[submodule "start/trouble.nvim"]
+	path = start/trouble.nvim
+	url = https://github.com/folke/trouble.nvim
+[submodule "start/gitsigns.nvim"]
+	path = start/gitsigns.nvim
+	url = https://github.com/lewis6991/gitsigns.nvim
+[submodule "start/lualine.nvim"]
+	path = start/lualine.nvim
+	url = https://github.com/hoob3rt/lualine.nvim
+[submodule "start/neoformat"]
+	path = start/neoformat
+	url = https://github.com/sbdchd/neoformat
+[submodule "start/nvim-dap"]
+	path = start/nvim-dap
+	url = https://github.com/mfussenegger/nvim-dap
+[submodule "start/nvim-dap-ui"]
+	path = start/nvim-dap-ui
+	url = https://github.com/rcarriga/nvim-dap-ui
+[submodule "start/kommentary"]
+	path = start/kommentary
+	url = https://github.com/b3nj5m1n/kommentary
+[submodule "start/lsp_signature.nvim"]
+	path = start/lsp_signature.nvim
+	url = https://github.com/ray-x/lsp_signature.nvim
+[submodule "start/registers.nvim"]
+	path = start/registers.nvim
+	url = https://github.com/tversteeg/registers.nvim
+[submodule "start/barbar.nvim"]
+	path = start/barbar.nvim
+	url = https://github.com/romgrk/barbar.nvim
+[submodule "start/lspkind-nvim"]
+	path = start/lspkind-nvim
+	url = https://github.com/onsails/lspkind-nvim
+[submodule "start/friendly-snippets"]
+	path = start/friendly-snippets
+	url = https://github.com/rafamadriz/friendly-snippets
+[submodule "start/nvim-gdb"]
+	path = start/nvim-gdb
+	url = https://github.com/sakhnik/nvim-gdb
+[submodule "start/nvim-tmux-navigation"]
+	path = start/nvim-tmux-navigation
+	url = https://github.com/alexghergh/nvim-tmux-navigation
+[submodule "start/git-tree.nvim"]
+	path = start/git-tree.nvim
+	url = https://github.com/ilidar/git-tree.nvim
+[submodule "start/nginx.vim"]
+	path = start/nginx.vim
+	url = https://github.com/chr4/nginx.vim
