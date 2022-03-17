@@ -97,3 +97,6 @@
 [submodule "start/nginx.vim"]
 	path = start/nginx.vim
 	url = https://github.com/chr4/nginx.vim
+[submodule "start/editorconfig-vim.git"]
+	path = start/editorconfig-vim.git
+	url = https://github.com/editorconfig/editorconfig-vim.git
