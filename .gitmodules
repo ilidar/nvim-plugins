@@ -103,3 +103,9 @@
 [submodule "start/plantuml-syntax.git"]
 	path = start/plantuml-syntax.git
 	url = https://github.com/aklt/plantuml-syntax
+[submodule "start/lspsaga.nvim"]
+	path = start/lspsaga.nvim
+	url = https://github.com/glepnir/lspsaga.nvim.git
+[submodule "start/symbols-outline.nvim"]
+	path = start/symbols-outline.nvim
+	url = https://github.com/simrat39/symbols-outline.nvim
