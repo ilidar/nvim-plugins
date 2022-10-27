@@ -109,3 +109,6 @@
 [submodule "start/symbols-outline.nvim"]
 	path = start/symbols-outline.nvim
 	url = https://github.com/simrat39/symbols-outline.nvim
+[submodule "start/indent-blankline.nvim"]
+	path = start/indent-blankline.nvim
+	url = https://github.com/lukas-reineke/indent-blankline.nvim
