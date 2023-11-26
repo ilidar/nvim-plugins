@@ -112,3 +112,6 @@
 [submodule "start/indent-blankline.nvim"]
 	path = start/indent-blankline.nvim
 	url = https://github.com/lukas-reineke/indent-blankline.nvim
+[submodule "start/copilot.lua"]
+	path = start/copilot.lua
+	url = https://github.com/zbirenbaum/copilot.lua.git
